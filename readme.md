@@ -1,0 +1,1 @@
+This repo is intended to host my Ferris Sweep QMK settings. This is a clone of the [default keymap](https://github.com/qmk/qmk_firmware/tree/master/keyboards/ferris/keymaps/default) along with small adjustments to fit my needs. For information on building your own QMK firmware, check the [official documentation](https://docs.qmk.fm/#/newbs_building_firmware).
