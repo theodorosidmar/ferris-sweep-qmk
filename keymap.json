@@ -14,7 +14,7 @@
          "KC_Z"        , "LCTL_T(KC_X)", "LALT_T(KC_C)"   , "KC_V"          , "KC_B",
          "KC_N"        , "KC_M"        , "LALT_T(KC_COMM)", "LCTL_T(KC_DOT)", "KC_SLSH",
 
-         "KC_P0"       , "KC_BSPC",
+         "S(KC_LGUI)"  , "KC_BSPC",
          "LT(7,KC_SPC)", "KC_LGUI"
         ],
         ["KC_TRNS"     , "KC_TRNS"     , "KC_TRNS"        , "KC_TRNS"       , "KC_TRNS",
