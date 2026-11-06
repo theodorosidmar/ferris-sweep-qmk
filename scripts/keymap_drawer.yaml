@@ -1,0 +1,49 @@
+# Config for https://github.com/caksoylar/keymap-drawer, used by ./draw.sh
+draw_config:
+  key_h: 60
+  append_colon_to_layer_header: false
+  footer_text: Generated from keymap.json with keymap-drawer (scripts/draw.sh)
+parse_config:
+  trans_legend: {t: ▽, type: trans}
+  raw_binding_map:
+    S(KC_LGUI): Sft+Gui
+    LCTL(KC_LALT): Ctl+Alt
+    LCA(KC_LSFT): Ctl+Alt+Sft
+    RALT(KC_COMM): ç
+    QK_BOOT: {t: Boot, type: danger}
+    DF(0): {t: Base, h: default}
+    DF(1): {t: Mouse, h: default}
+    RGB_MOD: RGB+
+    RGB_RMOD: RGB-
+    KC_BTN1: LClick
+    KC_BTN2: RClick
+    KC_MS_L: ←
+    KC_MS_D: ↓
+    KC_MS_U: ↑
+    KC_MS_R: →
+    KC_WH_U: Scroll ↑
+    KC_WH_D: Scroll ↓
+    KC_WH_L: Scroll ←
+    KC_WH_R: Scroll →
+    KC_LEFT: ←
+    KC_RGHT: →
+    KC_UP: ↑
+    KC_DOWN: ↓
+    KC_PSCR: PrtSc
+    KC_VOLD: Vol-
+    KC_VOLU: Vol+
+    KC_PSLS: /
+    KC_PPLS: +
+    KC_PMNS: '-'
+    KC_PAST: '*'
+    KC_PEQL: '='
+    KC_PGUP: PgUp
+    KC_PGDN: PgDn
+    KC_HOME: Home
+    KC_END: End
+    KC_ENT: Enter
+    KC_CAPS: Caps
+    KC_DEL: Del
+    KC_ESC: Esc
+    KC_TAB: Tab
+    KC_BSPC: Bspc
